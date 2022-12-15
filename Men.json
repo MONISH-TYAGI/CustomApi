@@ -37,51 +37,45 @@
     "ProdId":"105"
     },
     {
-        "Name":"HankerCheif",
+        "Name":"HandkerChief",
     "Price":"600",
     "Image":
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR341Dv1LBeksfbZweoxJPB-ZK2mdtLKAdiZA&usqp=CAU"
-    ,
+"https://tiimg.tistatic.com/fp/1/006/132/plain-cotton-white-handkerchief-416-w300.jpg"    ,
     "ProdId":"106"
     },
     {
         "Name":"Tie",
     "Price":"800",
     "Image":
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR341Dv1LBeksfbZweoxJPB-ZK2mdtLKAdiZA&usqp=CAU"
-    ,
+"https://media.istockphoto.com/id/1146412896/photo/blue-silk-tie-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=48BL9TuIi2RAziJRh4eV79odyzb5"    ,
     "ProdId":"107"
     },
     {
         "Name":"Coat",
     "Price":"900",
     "Image":
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR341Dv1LBeksfbZweoxJPB-ZK2mdtLKAdiZA&usqp=CAU"
-    ,
+"https://elybrate.in/wp-content/uploads/2021/01/coat-v1.png"    ,
     "ProdId":"108"
     },
     {
         "Name":"Blazer",
     "Price":"1000",
     "Image":
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR341Dv1LBeksfbZweoxJPB-ZK2mdtLKAdiZA&usqp=CAU"
-    ,
+"https://5.imimg.com/data5/XU/AH/MY-32275747/corporate-uniform-500x500.jpg"    ,
     "ProdId":"109"
     },
     {
         "Name":"Towel",
     "Price":"1100",
     "Image":
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR341Dv1LBeksfbZweoxJPB-ZK2mdtLKAdiZA&usqp=CAU"
-    ,
+"https://images.unsplash.com/photo-1639298107851-058984903954?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHRvd2VsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"    ,
     "ProdId":"110"
     },
     {
         "Name":"Socks",
     "Price":"1200",
     "Image":
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR341Dv1LBeksfbZweoxJPB-ZK2mdtLKAdiZA&usqp=CAU"
-    ,
+"https://img.freepik.com/free-photo/pair-socks_1203-2463.jpg?w=2000"    ,
     "ProdId":"111"
     }
 
