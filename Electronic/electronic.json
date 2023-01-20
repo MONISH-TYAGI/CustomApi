@@ -1,7 +1,7 @@
 [
     {
         "Name":"Smart Television",
-    "Price":"10,000",
+    "Price":"10000",
     "Image":"https://m.media-amazon.com/images/I/71d5fMDvq9L._SL1500_.jpg",
     "ProdId":"900"
     },
@@ -13,7 +13,7 @@
     },
     {
         "Name":"Laptop",
-    "Price":"50,000",
+    "Price":"50000",
     "Image":"https://upload.wikimedia.org/wikipedia/commons/9/9f/M2_Macbook_Air_Starlight_model.jpg",
     "ProdId":"902"
     },
@@ -25,34 +25,34 @@
     },
     {
         "Name":"Fridge",
-    "Price":"26,000",
+    "Price":"26000",
     "Image":"https://www.lg.com/in/images/refrigerators/md07549463/gallery/GC-X257CSES-Refrigerators-Front-Light-On-Food-D-01.jpg",
     "ProdId":"904"
     },
     {
         "Name":"Washing Machine",
-    "Price":"20,000",
+    "Price":"20000",
     "Image":
 "https://m.media-amazon.com/images/I/81d5542EVsL._SL1500_.jpg"    ,
     "ProdId":"905"
     },
     {
         "Name":"Air Conditioner",
-    "Price":"24,000",
+    "Price":"24000",
     "Image":
 "https://www.lg.com/levant_en/images/air-conditioning-units/md07547825/gallery/D-1.jpg"    ,
     "ProdId":"906"
     },
     {
         "Name":"Oven",
-    "Price":"14,000",
+    "Price":"14000",
     "Image":
 "https://m.media-amazon.com/images/I/61veIa1VbmL._SX425_.jpg",
     "ProdId":"907"
     },
     {
         "Name":"MixerSet",
-    "Price":"3,000",
+    "Price":"3000",
     "Image":
 "https://img1.gadgetsnow.com/gd/images/products/additional/original/G378182_View_1/home-appliances/juicer-mixer-grinder/prestige-endura-1000w-mixer-grinder-6-jars.jpg"    ,
     "ProdId":"908"
@@ -94,14 +94,14 @@
     },
     {
         "Name":"TreadMill",
-    "Price":"32,000",
+    "Price":"32000",
     "Image":
 "https://m.media-amazon.com/images/I/61z+roozH-L._SL1080_.jpg"    ,
     "ProdId":"914"
     },
     {
         "Name":"Geyser",
-    "Price":"7,000",
+    "Price":"7000",
     "Image":
 "https://4.imimg.com/data4/CS/XH/MY-3318418/25-500x500.png"    ,
     "ProdId":"915"
